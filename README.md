@@ -100,7 +100,7 @@ cd Hirely
 ```bash
 cd backend
 
-python -m venv venv
+python -m venv .venv
 
 # Windows
 venv\Scripts\activate
