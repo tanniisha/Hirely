@@ -1,0 +1,1 @@
+Python, Flask, REST APIs, SQLAlchemy, Generative AI (Google Gemini), Speech-to-Text, SpeechRecognition, Audio Processing (pydub), PyPDF2, React, Vite, JavaScript (ES6+), npm, ESLint, Environment Management (.env / python-dotenv), File Uploads & Processing, Logging & Error Handling
